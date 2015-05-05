@@ -934,7 +934,7 @@ h1.section-title:after {
   backface-visibility: hidden;
   -webkit-perspective: 1000;
   perspective: 1000;
-  text-transform: lowercase;
+  //text-transform: lowercase;
 }
 
 .work-col h6 {

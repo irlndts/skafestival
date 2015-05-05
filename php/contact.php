@@ -3,7 +3,7 @@
 $address = 'YOUR_EMAIL_ADDRESS'; // your email address
 
 $name=$_POST['name'];
-$email=$_POST['email'];
+$email=$_POST['info@magneticloft.com'];
 $message=$_POST['message'];
 $subject = 'You have been contacted by ' . $name;
 $body = 'Name: ' . $name . PHP_EOL . PHP_EOL . 'Email: ' . $email . PHP_EOL . PHP_EOL . $message;
